@@ -1,2 +1,2 @@
 # hello-class
-You already know what's going on.
+Hello, class. I am changing the text in this document.
